@@ -15,8 +15,6 @@ I am excited to learn new things about technology 🌐
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarserianD&layout=compact)
-
 ## 📷 My Social Media
 
 ![https://www.instagram.com/karserynd_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@ryanddev?lang=id-ID](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
